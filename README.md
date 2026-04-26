@@ -1,5 +1,5 @@
 <p align="center">
-  <h1> Neovim Configuration </h1>
+  <h3> Neovim Configuration </h3>
 </p>
 
 * Minimal plugins installed
