@@ -1,5 +1,5 @@
 <p align="center">
-  ## Neovim Configuration
+  <h1>Neovim Configuration</h1>
 </p>
 
 ---
