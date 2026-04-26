@@ -1,7 +1,6 @@
 <p align="center">
   <img src="nvim.png" alt="Neovim Config Header" width="400">
 </p>
-
 ---
 
 #### Configs may change, But these settings will always remain the same:
