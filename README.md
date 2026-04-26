@@ -4,7 +4,7 @@
 
 ---
 
-### Configs may change, But these settings will always remain the same
+#### Configs may change, But these settings will always remain the same
 ```lua
 -- Global Variables
 vim.g.mapleader = " "
