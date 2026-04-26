@@ -1,5 +1,5 @@
 <p align="center">
-  **`Neovim Configuration`**
+  NEOVIM CONFIG
 </p>
 
 ---
