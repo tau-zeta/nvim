@@ -1,5 +1,5 @@
 <p align="center">
-  NEOVIM CONFIG
+  <img src="nvim.png" alt="Neovim Config Header" width="600">
 </p>
 
 ---
