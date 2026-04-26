@@ -1,6 +1,8 @@
 <p align="center">
-Neovim Configuration
+  ## Neovim Configuration
 </p>
+
+---
 
 * Minimal plugins installed
 * LSPs must be updated manually by following these steps,
